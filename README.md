@@ -24,7 +24,11 @@ Rings need to be in Inventory, or Wardrobe 1-4. If you want to keep a ring from 
 Settings are not yet saved. You can edit the preference table in the lua directly.
 
 ### Changelog:
-- 1.3.1 - Added additional logic to prevent using a ring when Kopofried buff gain/drop.  
+- 1.3.1 - Minor bug fix.
+          - Fixed issue where Kupofried Trust could cause unintended XP/CP ring usage
+          - Added grace-window tracking for Dedication/Commitment buffs
+          - Prevents rings from being consumed during aura flicker or refresh
+          - Still allows rings to be used alongside Kupofried when aura-only  
 - 1.3.0 - Added support for Wardrobes 5-8.
 - 1.2.5 - I don't remember what I did there...
 - 1.2.4 - Some minor bugfixes.
