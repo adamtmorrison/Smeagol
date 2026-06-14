@@ -65,3 +65,5 @@ Note: no, I won't make it automatically drop spent rings.
 
 Thanks to Kale for his gearswap suite, Smeagol started with code from that.  
 Thanks to from20020516, the code that check for ring cooldown is from him.  
+
+Enhancements done via: VC-MSCP (Vibe coding using Microsoft CoPilot)
